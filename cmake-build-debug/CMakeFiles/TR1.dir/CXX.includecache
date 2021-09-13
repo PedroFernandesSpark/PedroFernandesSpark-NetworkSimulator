@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Documents/TR1/CamadaFisica.h
+iostream
+-
+stdio.h
+-
+string
+-
+
+C:/Users/pedro/Documents/TR1/main.cpp
+iostream
+-
+stdio.h
+-
+string
+-
+CamadaFisica.h
+C:/Users/pedro/Documents/TR1/CamadaFisica.h
+
